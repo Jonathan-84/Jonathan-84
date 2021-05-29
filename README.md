@@ -4,12 +4,15 @@ I have spent the last 15+ years achieving success in Sales and Marketing. I dove
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a project intended to eliminate a friction point between sales and their prospects.
-- 💬 Ask me about: My Coding Bootcamp experience or my other professional experience
+- :calendar: I've created and launched [Exley](www.myexley.com) that will enable Sales Professionals to quickly chart key process deadlines.
+
+- 💬 Ask me about: My Coding Bootcamp experience or my other professional experience.
 - ⚡ Fun fact: I've led 2 sales presentations at the Pentagon.
 
 ## I'm Experienced with these Languages and Packages
-HTML5, CSS, JavaScript, jQuery, Moment.js, Bootstrap, Bulma, Node.js, Express.js, Sequelize, MySQL, Handlebars
+HTML5, CSS, JavaScript, jQuery, Moment.js, Bootstrap, Bulma, Node.js, Express.js, Sequelize, MySQL, Handlebars, React, MongoDB, GraphSQL, JWT
 
 ## Connect with me:
-
+[LinkedIn Profile](https://www.linkedin.com/in/jrob84/)
+<br>
+My Email: jonathan.robinson@outlook.com
