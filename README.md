@@ -1,3 +1,4 @@
+![header image](https://raw.githubusercontent.com/Jonathan-84/Jonathan-84.github.io/master/assets/img/IMG_5923.PNG)
 ### Hi I'm Jonathan 👋
 
 I have spent the last 15+ years achieving success in Sales and Marketing. I dove head first into learning software development because my desire to create, my desire for technology to make our lives easier, and my desire to inspire my children. 
