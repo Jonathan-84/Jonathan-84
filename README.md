@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jonathan-84/Jonathan-84.github.io/master/assets/img/IMG_5923.PNG" alt="Your image title" width="600"/>
+</p>
 
 ### Hi I'm Jonathan 👋
 
