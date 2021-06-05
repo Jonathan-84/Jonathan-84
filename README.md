@@ -6,7 +6,7 @@
 
 I have spent the last 15+ years achieving success in Sales and Marketing. I dove head first into learning software development because my desire to create, my desire for technology to make our lives easier, and my desire to inspire my children. 
 
-Here are some ideas to get you started:
+Some highlights about me:
 
 - :calendar: I've created and launched [Exley](www.myexley.com) that will enable Sales Professionals to quickly chart key process deadlines.
 
