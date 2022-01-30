@@ -3,7 +3,7 @@
 </p>
 
 ### Hi I'm Jonathan 👋
- >Each of us have our own unique perspective that is developed through our unique experiences, our interests, and our everyday roles responsibilities. I believe this     >perspective fuels innovation, better technology, and can help solve everyday problems.
+ >Each of us have our own unique perspective that is developed through our unique experiences, our interests, and our everyday roles responsibilities. I believe this     perspective fuels innovation, better technology, and can help solve everyday problems.
 
 A bit more about me, I have spent the last decade achieving success in Sales and Marketing. I dove head first into learning software development because my desire to create, my desire to inspire my children, and my desire to contribute with my unique perspective. 
 
