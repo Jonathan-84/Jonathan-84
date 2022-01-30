@@ -4,7 +4,7 @@
 
 ### Hi I'm Jonathan 👋
 
-I have spent over a decade achieving success in Sales and Marketing. I dove head first into learning software development because my desire to create, my desire for technology to make our lives easier, and my desire to inspire my children. 
+I have spent the last decade achieving success in Sales and Marketing. I dove head first into learning software development because my desire to create, my desire for technology to make our lives easier, and my desire to inspire my children. 
 
 Some highlights about me:
 
@@ -12,6 +12,11 @@ Some highlights about me:
 
 - 💬 Ask me about: My Coding Bootcamp experience or my other professional experience.
 - ⚡ Fun fact: I've led 2 sales presentations at the Pentagon.
+
+## Latest Learning Endeavor 🏫
+- 🔬 Learning the Science and Art of UX Design (Google/Coursera Certificate)
+- 🚧 Coding skills under continued construction (Mosh Programming Courses)
+
 
 ## I'm Experienced with these Languages and Packages
 HTML5, CSS, JavaScript, jQuery, Moment.js, Bootstrap, Bulma, Node.js, Express.js, Sequelize, MySQL, Handlebars, React, MongoDB, GraphSQL, JWT
