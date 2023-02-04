@@ -28,4 +28,7 @@ HTML5, CSS, JavaScript, jQuery, Moment.js, Bootstrap, Bulma, Node.js, Express.js
 ## Connect with me:
 [LinkedIn Profile](https://www.linkedin.com/in/jrob84/)
 <br>
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jrob84
+<br>
 My Email: jonathan.robinson@outlook.com
+
