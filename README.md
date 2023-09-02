@@ -19,11 +19,11 @@ Some highlights about me:
  * Main focus on learning Java and Springboot
 
 ## Certifications
-None yet but plans for AWS, Terraform, Kubernetes Certs
+None yet but plans for AWS and Terraform
 
 
-## I'm Experienced with these Languages and Packages
-HTML5, CSS, JavaScript, jQuery, Moment.js, Bootstrap, Bulma, Node.js, Express.js, Sequelize, MySQL, Handlebars, React, MongoDB, GraphSQL, JWT
+## I'm Experienced with these Languages, Packages, and Technologies
+HTML5, CSS, JavaScript, jQuery, Moment.js, Bootstrap, Bulma, Node.js, Express.js, Sequelize, MySQL, Handlebars, React, MongoDB, GraphSQL, JWT, AWS, Terraform
 
 ## Connect with me:
 [LinkedIn Profile](https://www.linkedin.com/in/jrob84/)
