@@ -15,11 +15,11 @@ Some highlights about me:
 - ⚡ Fun fact: I've led 2 sales presentations at the Pentagon.
 
 ## Latest Learning Endeavor 🏫
-- 🚧 Coding skills under continued construction (Mosh Programming Courses)
- * Main focus on learning Java and Springboot
+- 🚧 Coding skills under continued construction
+ * Main focus on learning whatever I can
 
 ## Certifications
-None yet but plans for AWS and Terraform
+AWS Practioner but plans for AWS and Terraform
 
 
 ## I'm Experienced with these Languages, Packages, and Technologies
