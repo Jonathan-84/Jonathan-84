@@ -30,5 +30,5 @@ HTML5, CSS, JavaScript, jQuery, Moment.js, Bootstrap, Bulma, Node.js, Express.js
 <br>
 Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jrob84
 <br>
-My Email: dev-jonathan-84n@outlook.com
+My Email: dev-jonathan-84@outlook.com
 
